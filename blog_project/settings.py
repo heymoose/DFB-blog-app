@@ -26,7 +26,7 @@ SECRET_KEY = 'vlumo%-=f3f03_&h^ph-mku7d)48=ywv6p=c90!a(#)t@@9mdx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
